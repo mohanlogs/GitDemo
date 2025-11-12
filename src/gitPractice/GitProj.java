@@ -7,7 +7,7 @@ public class GitProj {
 		
 		System.out.println("Hello Git_A");
 		System.out.println("Hello Git_B");
-
+		System.out.println("Hello Git_C");
 	}
 
 }
