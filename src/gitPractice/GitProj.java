@@ -12,5 +12,14 @@ public class GitProj {
 		System.out.println("Hello Git_E");
 		System.out.println("Hello Git_F");
 	}
-
+	
+	public void deletetext() {
+		
+		System.out.println("delete text git_A");
+	}
+	
+	public void addtext() {
+		
+		System.out.println("add text git_A");
+	}
 }
